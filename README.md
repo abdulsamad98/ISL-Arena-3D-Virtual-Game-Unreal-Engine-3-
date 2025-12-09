@@ -63,6 +63,10 @@ Enhancing gameplay mechanics and objectives
 
 Creating a full campus tour application
 
+👥 Project Team & Contributions
+
+This project was built with contributions from students across multiple departments at ISL Engineering College.
+
 ![ISL Game](https://github.com/user-attachments/assets/6fc06787-d13b-4dec-9e12-0b9a42f04848)
 
 
