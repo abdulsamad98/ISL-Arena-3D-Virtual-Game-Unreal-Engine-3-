@@ -63,6 +63,6 @@ Enhancing gameplay mechanics and objectives
 
 Creating a full campus tour application
 
-                              ![ISL Game](https://github.com/user-attachments/assets/6fc06787-d13b-4dec-9e12-0b9a42f04848)
+![ISL Game](https://github.com/user-attachments/assets/6fc06787-d13b-4dec-9e12-0b9a42f04848)
 
 
