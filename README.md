@@ -21,9 +21,6 @@ The project leverages Unreal Engine’s capabilities to deliver:
 
 ✋ Gesture-based controls enabling natural interaction
 
-![ISL Game](https://github.com/user-attachments/assets/6fc06787-d13b-4dec-9e12-0b9a42f04848)
-
-
 🎮 Engaging gameplay designed to simulate a real-time virtual walk-through
 
 This project demonstrates my early experience in game development, 3D modeling, and immersive UI design.
@@ -65,3 +62,7 @@ Adding VR support
 Enhancing gameplay mechanics and objectives
 
 Creating a full campus tour application
+
+                              ![ISL Game](https://github.com/user-attachments/assets/6fc06787-d13b-4dec-9e12-0b9a42f04848)
+
+
